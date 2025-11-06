@@ -1,4 +1,4 @@
 # Nama :Bagus Dwi Prasetyo
 # NIM : 23111006
-# Mata Kuliah :PEMROGRAMAM BERBASIS PLATFORM
+# Mata Kuliah :PEMROGRAMAn BERBASIS PLATFORM
 
