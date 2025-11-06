@@ -1,2 +1,4 @@
-# bagus-dwi-prasetyo
-tugas
+bagus-dwi-prasetyo
+NIM.23111006
+PEMROGRAMAM BERBASIS PLATFORM
+
